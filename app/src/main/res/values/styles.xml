@@ -1,0 +1,46 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="android:Theme.Holo.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+    </style>
+    <style name="button_style" >
+        <item name="android:layout_width" >wrap_content</item>
+        <item name="android:layout_height" >wrap_content</item>
+        <item name="android:textColor" >#191400</item>
+        <item name="android:gravity" >center</item>
+        <item name="android:layout_margin" >3dp</item>
+        <item name="android:shadowColor" > #aaaaaa</item>
+        <item name="android:shadowDx" >1</item>
+        <item name="android:shadowDy" >1</item>
+        <item name="android:shadowRadius" >2</item>
+        <item name="android:background">#d7ec9e</item>
+        <item name="android:height"> 5dp </item>
+        <item name="android:typeface">monospace</item>
+        <item name="android:textSize">20px</item>
+    </style>
+
+    <style name="tableStyle">
+        <item name="android:background">#e5e5e5</item>
+    </style>
+
+    <style name="rowStyle">
+        <item name="android:background">#b3cd69</item>
+        <item name="android:layout_margin">2dp</item>
+    </style>
+
+    <style name="textStyle">
+        <item name="android:text">#63723a</item>
+        <item name="android:typeface">monospace</item>
+        <item name="android:textSize">20px</item>
+    </style>
+
+    <style name="temperatureStyle">
+        <item name="android:textColor">#3b4423</item>
+        <item name="android:typeface">monospace</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">20px</item>
+        <item name="android:layout_weight">7</item>
+    </style>
+
+</resources>

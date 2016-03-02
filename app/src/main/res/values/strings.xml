@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Qualcom</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="conversion">to °F</string>
+</resources>
